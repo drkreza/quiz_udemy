@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class WelcomeScreen extends StatelessWidget {
-  const WelcomeScreen(this.switchScreen,{super.key});
+class StartScreen extends StatelessWidget {
+  const StartScreen(this.switchScreen,{super.key});
 
   final void Function() switchScreen;
 
